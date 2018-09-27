@@ -1,11 +1,11 @@
 # Site settings
 author: Robert Snyder
-title: 
+title: Learning to Code
 header-img: img/home-bg.png
 email: r.snyder49@gmail.com
 copyright_name: Robert Snyder
 description: > # this means to ignore newlines until "baseurl:"
-  
+  (Your Name Here)
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rsnyder49
