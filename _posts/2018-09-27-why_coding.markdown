@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Why Coding?"
-date:       2018-09-27 20:09:46 +0000
+date:       2018-09-27 16:09:47 -0400
 permalink:  why_coding
 ---
 
 
-My adult life began with a career in the video game industry.  As an avid gamer since the time I could handle a controller, I couldn't be more excited for the opportunity to work with something I loved.  The company that was kind enough to give me this shot was a publisher for online MMORPG's.  A publisher markets and distributes the products(games) of video game developers.  Similar to how a book publisher distributes the work of various authors.
+My adult life began with a career in the video game industry.  As an avid gamer since the time I could handle a controller, I couldn't be more excited for the opportunity to work with something I loved.  The company that was kind enough to give me this shot was a publisher for online MMORPG's(massively multiplayer online role-playing games).  A publisher markets and distributes the products(games) of video game developers.  Similar to how a book publisher distributes the work of various authors.
 
 I started from the ground up working as a Game Master who's responsibilty was ensuring the satisfaction of the players who played the game I worked on. I moved up to Community Manager focusing on publisher to player communication. And jumping ahead a few years I was managing two games with a small team around me. 
 
